@@ -1,0 +1,11 @@
+body {
+    padding: 0px;
+    margin: 0px;
+  }
+  #root {
+    width: 100vw;
+    height: 100vh;
+    background: rgb(255, 255, 255);
+    padding-top: 20px;
+  }
+  
